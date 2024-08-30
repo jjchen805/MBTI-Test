@@ -1,10 +1,8 @@
 // Joshua Chen
 // 5/23/2022
 // CSE142
-// TA: Andrew Kuhn
-// Take-home Assessment #7
 //
-// This program interprets and calculate the personality testing result to determine each person's
+// This program interprets and calculates the personality testing result to determine each person's
 // personality. There are four dimensions of the test: Extrovert(E)/Introvert(I), 
 // Sensation(S)/iNtuition(N), Thinking(T)/Feeling(F), and Judging(J)/Perceiving(P).
 
